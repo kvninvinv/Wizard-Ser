@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://instagram.com/ajmal_ibn_shanavas"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/918590967139"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://wa.me/966568319347"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
 ## <!-- Typing SVG -->
@@ -26,7 +26,7 @@
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/5shzvYdTasw"><img src="https://i.imgur.com/XkDscpl.jpeg" />
+  <a href="https://www.instagram.com/itachisama37"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKT04V6eFHKzrXGZ3KeOE8l6CAOANzg62_-lpJdiCHLAmBRs9_fjtYg-Xfi1rvU40Dy5c&usqp=CAU" />
 </p>
 
 -------
